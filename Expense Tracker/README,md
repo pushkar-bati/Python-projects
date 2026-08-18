@@ -1,0 +1,33 @@
+# Expense Tracker
+
+A simple command-line Expense Tracker application built with Python.
+
+## Features
+
+- Add an expense
+- View all expenses
+- Calculate total expenses
+- View expenses by category
+- Delete an expense
+- Exit the application
+
+## Concepts Used
+
+- Variables
+- Lists
+- Dictionaries
+- Functions
+- Loops
+- Conditional statements
+- User input
+- Exception handling
+- CRUD operations
+
+## How to Run
+
+Make sure Python is installed.
+
+Open the terminal inside the Expense Tracker folder and run:
+
+```bash
+python expense_tracker.py
